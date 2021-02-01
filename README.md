@@ -3,6 +3,8 @@ Studio Ghibli-inspired color palettes for Python's MatPlotLib
 
 Inspired by [`ewenme`'s `ghibli` package](https://ewenme.github.io/ghibli/index.html) for R/`ggplot2`.  Original palettes from [Movies in Color](http://moviesincolor.com/).
 
+![](https://github.com/ewenme/ghibli/raw/master/man/figures/README-palettes-1.png)
+
 Usage:
 
 ```py
